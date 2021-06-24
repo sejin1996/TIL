@@ -4,9 +4,7 @@
 
 1. 로컬 git 저장소 준비
 
-2. Github repository 생성
-
-   ![img](https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F24222ced-cd02-43c0-bbf3-eba22d1d801e%2Fimage-20210623170259834.png)
+2. Github repository 생성![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24222ced-cd02-43c0-bbf3-eba22d1d801e/image-20210623170259834.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210624%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210624T082531Z&X-Amz-Expires=86400&X-Amz-Signature=58314a8435d5f1195428572cfc2511ba271b79d88dac8cb4016b786ec641cc16&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22image-20210623170259834.png%22)
 
 3. Repository default branch 변경 (settings -> repositories)
 
